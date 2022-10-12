@@ -42,11 +42,10 @@ h1 {
 }
 
 .review__text {
-  font-size: 500;
+  font-weight: 700;
 }
 
 .customer__block {
-  display: grid;
   background-color: hsl(300, 43%, 22%);
   color: hsl(300, 43%, 22%);
   font-weight: 500;
